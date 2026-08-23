@@ -12,7 +12,9 @@ const portfolioData = [
     categoryDescription: "Robust cross-platform desktop applications built for productivity.",
     projects: [
       { id: "dkt1", title: "Admin Pro", description: "A comprehensive administrative desktop solution.", link: "https://github.com/carlodandan/admin-pro" },
-      { id: "dkt2", title: "Cendrive", description: "A secure and efficient desktop application for census-style database.", link: "https://github.com/carlodandan/cendrive" }
+      { id: "dkt2", title: "Cendrive", description: "A secure and efficient desktop application for census-style database.", link: "https://github.com/carlodandan/cendrive" },
+      { id: "dkt3", title: "ExpenShare", description: "Offline household budget tracker for two people.", link: "https://github.com/carlodandan/ExpenShare-Tauri" },
+      { id: "dkt4", title: "Ovulate", description: "Offline Menstrual Cycle Tracker.", link: "https://github.com/carlodandan/ovulate" }
     ]
   },
   {
@@ -20,7 +22,8 @@ const portfolioData = [
     categoryName: "App",
     categoryDescription: "Mobile-first experiences designed for on-the-go usability.",
     projects: [
-      { id: "a1", title: "TODOIt", description: "The mobile-optimized version of the TODOIt task manager.", link: "https://todoit.pages.dev/" }
+      { id: "a1", title: "TODOIt", description: "The mobile-optimized version of the TODOIt task manager.", link: "https://todoit.pages.dev/" },
+      { id: "a2", title: "Ovulate", description: "Offline Menstrual Cycle Tracker.", link: "https://ovulate.pages.dev/" }
     ]
   },
   {
@@ -34,7 +37,8 @@ const portfolioData = [
       { id: "w1", title: "MRPH", description: "A responsive web application built for Civil Service Examination.", link: "https://mrph.pages.dev/" },
       { id: "w2", title: "Aniyume", description: "An interactive web platform streaming latest anime release.", link: "https://aniyume.qzz.io/" },
       { id: "w3", title: "Artkat", description: "A creative web showcase for this specific digital artists.", link: "https://artkat.pages.dev/" },
-      { id: "w4", title: "TODOIt", description: "A clean and functional task management web application.", link: "https://todoit.pages.dev/" }
+      { id: "w4", title: "TODOIt", description: "A clean and functional task management web application.", link: "https://todoit.pages.dev/" },
+      { id: "w5", title: "Ovulate", description: "Offline Menstrual Cycle Tracker.", link: "https://ovulate.pages.dev/" }
     ]
   },
   {
