@@ -14,12 +14,13 @@ const portfolioData = [
       { id: "dkt1", title: "Admin Pro", description: "A comprehensive administrative desktop solution.", link: "https://github.com/carlodandan/admin-pro" },
       { id: "dkt2", title: "Cendrive", description: "A secure and efficient desktop application for census-style database.", link: "https://github.com/carlodandan/cendrive" },
       { id: "dkt3", title: "ExpenShare", description: "Offline household budget tracker for two people.", link: "https://github.com/carlodandan/ExpenShare-Tauri" },
-      { id: "dkt4", title: "Ovulate", description: "Offline Menstrual Cycle Tracker.", link: "https://github.com/carlodandan/ovulate" }
+      { id: "dkt4", title: "Ovulate", description: "Offline Menstrual Cycle Tracker.", link: "https://github.com/carlodandan/ovulate" },
+      { id: "dkt5", title: "Golden Fur", description: "Secure record management system with both local and cloud support..", link: "https://github.com/carlodandan/the-golden-fur-release" }
     ]
   },
   {
     id: "app",
-    categoryName: "App",
+    categoryName: "Web App",
     categoryDescription: "Mobile-first experiences designed for on-the-go usability.",
     projects: [
       { id: "a1", title: "TODOIt", description: "The mobile-optimized version of the TODOIt task manager.", link: "https://todoit.pages.dev/" },
